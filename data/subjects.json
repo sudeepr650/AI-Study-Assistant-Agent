@@ -1,0 +1,34 @@
+{
+  "DBMS": {
+    "Keys and constraints": "Identify candidate, primary and foreign keys in a schema.",
+    "Relational model": "Translate an entity relationship into tables.",
+    "Normalization": "Decompose a relation and check functional dependencies.",
+    "Transactions and ACID": "Trace a transfer through commit and rollback.",
+    "Concurrency control": "Compare locking and isolation using a schedule.",
+    "Indexing": "Explain when a B-tree index improves a lookup."
+  },
+  "Java": {
+    "Classes and objects": "Trace constructors, instance fields and methods.",
+    "Inheritance and polymorphism": "Predict which overridden method executes.",
+    "Interfaces and abstraction": "Choose an interface for a small design.",
+    "Exceptions": "Trace try, catch and finally blocks.",
+    "Collections": "Choose between a list, set and map.",
+    "Generics": "Explain type safety in a parameterized collection."
+  },
+  "SQL": {
+    "SELECT and filtering": "Filter rows using WHERE and order the result.",
+    "Joins": "Predict the output of inner and left joins.",
+    "Grouping and aggregation": "Compare WHERE and HAVING in a grouped query.",
+    "Subqueries": "Use EXISTS to filter related rows.",
+    "Constraints": "Select constraints that enforce a business rule.",
+    "Window functions": "Rank rows within a partition."
+  },
+  "Computer Networks": {
+    "Network layers": "Trace encapsulation through the network stack.",
+    "IP addressing and subnetting": "Calculate network and broadcast addresses.",
+    "TCP and UDP": "Choose a transport protocol and explain its tradeoffs.",
+    "Routing": "Select a route using longest-prefix matching.",
+    "DNS and HTTP": "Trace the requests made when opening a website.",
+    "Flow and congestion control": "Distinguish receiver limits from network congestion."
+  }
+}
